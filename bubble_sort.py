@@ -8,5 +8,7 @@ for i in range(len(list1)):
             temp = list1[i]
             list1[i] = list1[j]
             list1[j] = temp
-
 print(list1)
+
+
+
